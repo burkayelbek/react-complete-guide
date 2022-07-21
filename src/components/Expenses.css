@@ -4,6 +4,9 @@
     margin: 2rem auto;
     width: 50rem;
     max-width: 95%;
+    /* Remove these for Card.css. We remove for these prevent code duplicaton*/
+    /* 
     border-radius: 12px;
-    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25); 
+    */
   }
